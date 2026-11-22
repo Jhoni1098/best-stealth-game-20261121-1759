@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Emberlight Heist — a tiny stealth game</title>
+<style>
+  html, body { margin: 0; height: 100%; overflow: hidden; background: #0b0e1a; }
+  #wrap { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; background: #0b0e1a; }
+  #game { display: block; background: #141a2e; box-shadow: 0 0 60px rgba(0,0,0,.7); }
+  #help { color: #9aa7c7; font: 13px/1.5 system-ui, sans-serif; text-align: center; padding: 8px 12px 0; max-width: 960px; }
+  #help b { color: #ffd479; font-weight: 600; }
+  #status { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="960" height="640" aria-label="Emberlight Heist: sneak past the Lantern Wardens, steal three ember shards, and slip out the moon gate unseen"></canvas>
+  <div id="help"><b>WASD / arrows</b> move &nbsp;·&nbsp; <b>Shift</b> sneak (slow, quiet, harder to spot) &nbsp;·&nbsp; <b>Click</b> toss a pebble to distract a warden &nbsp;·&nbsp; Hide in <b>bushes</b> and <b>shadows</b> &nbsp;·&nbsp; Steal 3 ember shards, then reach the moon gate &nbsp;·&nbsp; <b>R</b> restart &nbsp;·&nbsp; <b>P</b> pause</div>
+</div>
+<p id="status" role="status" aria-live="polite"></p>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
