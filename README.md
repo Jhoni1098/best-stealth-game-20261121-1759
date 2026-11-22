@@ -1,8 +1,8 @@
 # Emberlight Heist
 
-[![Competition](https://make.fun/badge/competition/best-stealth-game-20261121-1759)](https://make.fun/bounty/best-stealth-game-20261121-1759)
-[![Rank](https://make.fun/badge/rank/Jhoni1098/best-stealth-game-20261121-1759)](https://make.fun/bounty/best-stealth-game-20261121-1759)
-[![Reward](https://make.fun/badge/reward/Jhoni1098/best-stealth-game-20261121-1759)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/Jhoni1098/best-stealth-game-20261121-1759/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/Jhoni1098/best-stealth-game-20261121-1759/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 
 An original top-down stealth game for the [make.fun best stealth game bounty](https://make.fun/bounty/best-stealth-game-20261121-1759).
 
